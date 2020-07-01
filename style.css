@@ -22,7 +22,6 @@ h2{
     color: white;
     margin: 0 auto;
     color: black;
-    
 }
 h4{
     font-size: 22px;
@@ -107,7 +106,7 @@ a{
     height: 300px;
     width: 31%;
     padding: 0px 10px;
-    margin: 0px;             /*Reset margin of image */
+    margin: 0px;      /*Reset margin of image */
 }
 /*Style for client section*/
 #client{
@@ -127,7 +126,7 @@ a{
     height: 200px;
     background-color:white;
     text-align: center;
-    margin: 0 auto;         /*for middle position used margin 0 auto */
+    margin: 0 auto;        /*for middle position used margin 0 auto */
     margin-top: 80px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px rgb(223, 120, 120);
