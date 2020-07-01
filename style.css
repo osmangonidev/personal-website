@@ -107,7 +107,7 @@ a{
     height: 300px;
     width: 31%;
     padding: 0px 10px;
-    margin: 0px;             /*Reset margin of image */
+    margin: 0px;        /*Reset margin of image */
 }
 /*Style for client section*/
 #client{
@@ -134,7 +134,7 @@ a{
 }
 footer{
     height: 100px;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 footer p{
     text-align: center;
